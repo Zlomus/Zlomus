@@ -8,8 +8,6 @@
 ```
 
 • Discord - https://discord.gg/spaceroleplay
-
-• insta - zlomus_
 <!--
 **Zlomus/Zlomus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
